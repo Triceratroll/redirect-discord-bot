@@ -1,0 +1,25 @@
+{
+  "name": "redirect-discord-bot",
+  "version": "1.0.0",
+  "description": "dicord bot redirects messages between 2 diff channels",
+  "main": "redirect.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triceratroll/redirect-discord-bot.git"
+  },
+  "keywords": [
+    "DISCORD",
+    "BOT"
+  ],
+  "author": "Belerofonte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triceratroll/redirect-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Triceratroll/redirect-discord-bot#readme"
+}
